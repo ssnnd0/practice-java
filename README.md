@@ -5,7 +5,6 @@ mep dont know how to do shizz, i got zaza!!!!!!!!!!!!
 Welcome to the most chaotic Java practice repo you'll ever see! Buckle up, because things are about to get wild.
 
 ### Random HTML
-```html
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
