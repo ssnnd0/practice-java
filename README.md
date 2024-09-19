@@ -61,4 +61,5 @@ Welcome to the most chaotic Java practice repo you'll ever see! Buckle up, becau
 ## Authors
 
 - [@ssnnd0](https://www.github.com/ssnnd0)
+- ![alt text](https://avatars.githubusercontent.com/u/182104775?v=4)
 
