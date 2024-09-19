@@ -6,8 +6,6 @@ Welcome to the most chaotic Java practice repo you'll ever see! Buckle up, becau
 
 ### Random HTML
 ```html
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -51,4 +49,3 @@ Welcome to the most chaotic Java practice repo you'll ever see! Buckle up, becau
         });
     </script>
 </body>
-</html>
