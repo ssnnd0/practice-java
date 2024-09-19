@@ -61,5 +61,5 @@ Welcome to the most chaotic Java practice repo you'll ever see! Buckle up, becau
 ## Authors
 
 - [@ssnnd0](https://www.github.com/ssnnd0)
-- ![alt text](https://avatars.githubusercontent.com/u/182104775?v=4)
+![alt text](https://static.wikia.nocookie.net/fridaynightfunking/images/4/4a/CNightTankIdle.gif/revision/latest/thumbnail/width/360/height/360?cb=20220528180850)
 
